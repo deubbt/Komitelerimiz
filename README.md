@@ -18,13 +18,31 @@ Bilgisayar Bilimleri ve Yapay Zeka Topluluğunun komiteleri ve çalışmaları l
 ------
 
 ## BBT - AI
+[Veri Bilimi Kariyeri](https://github.com/deubbt/Veri-Bilimi-Yol-Haritasi)
+
+[SQL Cheatsheet](https://github.com/deubbt/SQL-Cheatsheet)
+
+[Time Series Analysis](https://github.com/deubbt/Time-Series-Analysis)
+
+[Machine Learning](https://github.com/deubbt/Machine-Learning)
+
+
 
 ## BBT - Cyber
+[Siber Güvenlik Kariyeri](https://github.com/deubbt/Siber-Guvenlik-Kariyeri)
+
+[Siber Güvenlikte Linux İşletim Sistemi](https://github.com/deubbt/Siber-Guvenlikte-Linux-Isletim-Sistemi)
+
 
 ## BBT - Web
+[Web geliştirme Kariyeri](https://github.com/deubbt/Web-Development-Kariyeri)
 
 ## BBT - Blockchain
 
 ## BBT - devGame
 
 ## BBT - Algorithm
+[Yazılım mülakatları ve algoritmalar](https://github.com/deubbt/Yazilim-Mulakatlari-ve-Algoritmalar)
+
+[Big O](https://github.com/deubbt/Big-O)
+
