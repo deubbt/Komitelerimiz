@@ -46,3 +46,7 @@ Bilgisayar Bilimleri ve Yapay Zeka Topluluğunun komiteleri ve çalışmaları l
 
 [Big O](https://github.com/deubbt/Big-O)
 
+---
+
+## Bilgisayar Bilimleri
+[Açık Kaynak Bilgisayar Bilimleri](https://github.com/deubbt/Acik-Kaynak-Bilgisayar-Bilimleri)
