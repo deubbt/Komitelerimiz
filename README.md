@@ -40,6 +40,7 @@ Bilgisayar Bilimleri ve Yapay Zeka Topluluğunun komiteleri ve çalışmaları l
 ## BBT - Blockchain
 
 ## BBT - devGame
+[Game Development Kariyeri](https://github.com/deubbt/Game-Development-Kariyeri)
 
 ## BBT - Algorithm
 [Yazılım mülakatları ve algoritmalar](https://github.com/deubbt/Yazilim-Mulakatlari-ve-Algoritmalar)
