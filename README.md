@@ -38,6 +38,7 @@ Bilgisayar Bilimleri ve Yapay Zeka Topluluğunun komiteleri ve çalışmaları l
 [Web geliştirme Kariyeri](https://github.com/deubbt/Web-Development-Kariyeri)
 
 ## BBT - Blockchain
+[Web3 Kariyeri](https://github.com/deubbt/Web-3-Kariyer)
 
 ## BBT - devGame
 [Game Development Kariyeri](https://github.com/deubbt/Game-Development-Kariyeri)
